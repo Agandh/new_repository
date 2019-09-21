@@ -1,2 +1,2 @@
 get-process
-get-module
+get-module | select name
